@@ -1,2 +1,2 @@
 # Time-Series-Term-Project
-In the folder called "Abdygulov Timur_FTP" you will find all infomation on the project that i have worked on, for additional infomation pleas reffer to the readme_Tim.txt on how to run .py file
+In the folder called "Term project" allocate the following folder: "Abdygulov Timur_FTP", there you will find all information on the project that I have worked on, for additional information please refer to the readme_Tim.txt on how to run .py file
